@@ -1,0 +1,4 @@
+cub/__pycache__
+cub/data
+cub/lightning_logs
+cub/checkpoints_cub
